@@ -12,7 +12,7 @@ Please [click here](https://www.sqlitetutorial.net/download-install-sqlite/) for
 
 ##### First clone this repository in **C:\sqlite\net** folder
 
-### What are all in this project?
+### What's in this project?
 
     * Creating a new SQLite database
     * Creating Movie Table (ID, Movie Name , Actor, Actress , Director , Year of release)
